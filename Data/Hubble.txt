@@ -1,0 +1,12 @@
+cluster distance velocity 
+Virgo 22 1.21 
+Pegasus 68 3.86 
+Perseus 108 5.15 
+Coma-Berenices 137 7.56 
+Ursa-Major-No1 255 15.0 
+Leo 315 19.3 
+Corona-Borealis 390 21.6 
+Gemini 405 23.2 
+Bootes 685 39.4 
+Ursa-Major-No2 700 41.8 
+Hydra 1100 61.2 
